@@ -113,6 +113,10 @@ body{
     color: white;
     text-decoration: underline;
 }
+hr{
+    position:relative;
+    bottom: 20px;
+    }
 h1{
 
     width: 130px;
