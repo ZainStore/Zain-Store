@@ -70,13 +70,7 @@ body{
  font-weight: bold;
    
 }
-hr{
-    color: orangered;
-    position: relative;
-    bottom: 30px;
-    width: 385px;
-    max-width: 390px;
-}
+
 .e{
     color: orangered;
     font-size: 18px;
