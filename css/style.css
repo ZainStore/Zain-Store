@@ -115,6 +115,8 @@ body{
     text-decoration: underline;
 }
 hr{
+    width:380px;
+    max-width:380px;
     position:relative;
     bottom: 20px;
     }
